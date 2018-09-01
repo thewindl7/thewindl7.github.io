@@ -3,16 +3,74 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2018/08/08/hello-world/"/>
-      <url>/2018/08/08/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      <title>关于thewindl7.tk</title>
+      <link href="/2018/09/02/%E5%85%B3%E4%BA%8Ethewindl7.tk/"/>
+      <url>/2018/09/02/%E5%85%B3%E4%BA%8Ethewindl7.tk/</url>
+      <content type="html"><![CDATA[<p>由于工作的原因，接触到Git，自然而然的接触到GitHub，玩了一下，<br>发现它里面有个叫GitHub Pages的东西，可以在上面搭建、托管自己的网页页面，<br>并且是免费的，这勾起了我的兴趣，然后就开始折腾了，<br><img src="https://i.loli.net/2018/09/02/5b8ac2a8c542c.jpg" alt="64542-b2610724831ceb28.jpg"><br>然后终于折腾出一个属于自己的博客了:thewindl7.tk,<br>可谓是一波三折啊，刚开始的时候是打算自己用Html5+Css3搭建的，<br>写了个框架后，发现还是用模板比较好，然后打算用Jekyll来做，<br><img src="https://i.loli.net/2018/09/02/5b8ac2ef0b644.jpg" alt="timg (1).jpg"><br>搭建了一下，发现了很多问题，不知道怎么解决，于是换了另一种看起来更加简单的模板：Hexo，<br>经过一番折腾终于可以在本地浏览并成功push到GitHub上了，<br><img src="https://i.loli.net/2018/09/02/5b8ac30d53955.jpg" alt="timg.jpg"><br>然后又因为觉得GitHub的二级域名太长，所以想自己搞个域名，<br>第一个想到的是免费的tk域名，但是听说不稳定会经常挂掉，以及百度好像不收录tk域名，<br><img src="https://i.loli.net/2018/09/02/5b8ac6bc384fb.png" alt="TK.png"><br>所以想去买一个，阿里云的域名虽然便宜，但是备案挺麻烦，<br>虽然说现在在阿里云的APP似乎让备案简单了很多，<br><img src="https://i.loli.net/2018/09/02/5b8ac6d3820ce.jpg" alt="timg (2).jpg"><br>GoDaddy不用备案，购买似乎也很方便，但是价格挺贵，<br><img src="https://i.loli.net/2018/09/02/5b8ac6e0b148b.jpg" alt="u=3264225560,3462328947&amp;fm=26&amp;gp=0.jpg"><br>本来是想在阿里云买个.top玩玩，因为才几块钱，<br>但是想到反正tk也免费，先注册试下行不行再说，<br>注册之后绑定了一下，发现跳到GitHub404页面了，<br>折腾了一番，总算是成功绑上了.<br>于是thewindl7.tk就这样搭建完成了.<br><img src="https://i.loli.net/2018/09/02/5b8ac9b41e05c.png" alt="L7-logo.png"></p>]]></content>
+      
+      <categories>
+          
+          <category> 博客的诞生 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>四季交响曲</title>
+      <link href="/2018/02/27/%E5%9B%9B%E5%AD%A3/"/>
+      <url>/2018/02/27/%E5%9B%9B%E5%AD%A3/</url>
+      <content type="html"><![CDATA[<table><thead><tr><th style="text-align:center">游戏信息</th></tr></thead><tbody><tr><td style="text-align:center">游戏名称</td><td style="text-align:center">四季交响曲</td></tr><tr><td style="text-align:center">游戏类型</td><td style="text-align:center">剧情向</td><td style="text-align:center">即时</td><td>探索</td><td>冒险</td><td>动作</td><td>短篇</td></tr><tr><td style="text-align:center">制作工具</td><td style="text-align:center">RPG Maker XP</td></tr><tr><td style="text-align:center">制作进度</td><td style="text-align:center">30%</td></tr><tr><td style="text-align:center">目前游戏流程</td><td style="text-align:center">2小时左右</td></tr><tr><td style="text-align:center">预期发布时间</td><td style="text-align:center">2019年</td></tr></tbody></table><a id="more"></a><p><strong>游戏简介</strong></p><p>春风般青涩、单纯的腼腆少年，<br>夏日般阳光、善良的漂亮少女，<br>秋风般清爽、悲凉的神秘少年，<br>严寒般阴冷、残酷的阴郁少女，<br>四个性格迥异的人在如诗如歌的年华里交织在一起，<br>汇成一曲优美的四季交响曲.</p><p><strong>游戏设定</strong><br>游戏为五周目，前四个周目游戏主题依次为：春、夏、秋、冬，<br>前四个周目的主角都不一样，主要玩法也不一样，<br>最后一个周目：交响曲，融合了游戏所有的玩法，是对整个故事的完结.</p><p><strong>游戏画面</strong></p><p>游戏标题<br><img src="https://i.loli.net/2018/09/01/5b8a579369c26.jpg" alt="四季1.jpg"></p><p>存档界面<br><img src="https://i.loli.net/2018/09/01/5b8a578b263cf.jpg" alt="四季2.jpg"></p><p>人物选择界面<br><img src="https://i.loli.net/2018/09/01/5b8a5781cdf7e.jpg" alt="四季3.jpg"><br>游戏未通关第一周目只有一个角色可以选择，当通关新的周目会解锁新的角色、新的周目、新的剧情.（因为目前只制作了第一周目，所以即使解锁了第二周目人物选择，也是无法选择进入游戏的）</p><p>游戏菜单<br><img src="https://i.loli.net/2018/09/01/5b8a578eafe52.jpg" alt="四季4.jpg"></p><p>游戏地图<br><img src="https://i.loli.net/2018/09/01/5b8a577aa45f5.jpg" alt="四季5.jpg"><br><img src="https://i.loli.net/2018/09/01/5b8a57753c764.jpg" alt="四季6.jpg"><br><img src="https://i.loli.net/2018/09/01/5b8a578f8b871.jpg" alt="四季7.jpg"></p><p>游戏对话<br><img src="https://i.loli.net/2018/09/01/5b8a578319ab9.jpg" alt="四季8.jpg"></p><p><strong>游戏系统</strong></p><p>成就系统<br><img src="https://i.loli.net/2018/09/01/5b8a578d2ef9c.jpg" alt="四季9.jpg"><br>在游戏中获得的成就，可以在菜单里看到，每周目都有不同的成就，可以在现在的周目看到别的周目获得的成就.</p><p>演奏系统<br><img src="https://i.loli.net/2018/09/01/5b8a578903641.jpg" alt="四季10.jpg"><br>这个是类似于弹幕游戏的游戏系统，作为一周目的主要玩法，<br><img src="https://i.loli.net/2018/09/01/5b8a57f2058d8.jpg" alt="四季11.jpg"><br>通过技能键发出旋律与对应的音符接触以获得分数，游戏有连击系统，连击数达到一定数量可 以回复失去的信心值或获得分数，当游戏时间结束，会结算分数，然后根据分数列出游戏风评，游戏分数越高风评就越高.</p><p>探索系统<br><img src="https://i.loli.net/2018/09/01/5b8a57ed218de.jpg" alt="四季12.jpg"><br>这个作为第二周目的主要玩法，rm本来就有这个，也并没有什么特色，就和传统的恐解一样有生命值，不过我这里变成阳光值这样，当阳光值为0时游戏结束，然后能探索周围之类的环境什么的，发生什么事件之类的,所以也没什么好说明的,这里就不多做介绍了.</p><p>弹幕推理系统<br><img src="https://i.loli.net/2018/09/01/5b8a57f695f2d.jpg" alt="四季13.jpg"><br>这个是仿弹丸论破的弹幕推理环节的游戏系统，作为第三周目的主要玩法，<br>弹幕推理开始之前会收集线索，然后弹幕推理开始的时候，屏幕会出现准星，<br>然后画面会出现从右移动到左的线索，移动准星瞄准移动的线索，按下射击键便能击中线索，<br>线索只有被击中三次才会算完全选择线索，完全选择之后将切换游戏画面，判断你选择的线索是不是正确的，<br>如果选择线索的是错误的，那么将扣去信心值，如果选择正确那么将进入下一个线索进行弹幕推理.<br>弹幕推理环节中有6发子弹，也就是有6次击中的机会，但是每条线索必须集中三次才会算选中，<br>所以要看清楚把握好机会，连续击中三次才可以，如果等到弹幕全部滚动结束，都没有选中线索，那么将扣除信心值.<br>射击的时候有两种可能：1.击中目标线索 2.MISS，没有击中目标线索<br>没有击中也会消耗子弹数，所以弹幕推理环节的时候要好好瞄准目标，避免出现MISS的情况.</p><p>动作战斗系统<br><img src="https://i.loli.net/2018/09/01/5b8a57f64cfda.jpg" alt="四季14.jpg"><br>和一般的ARPG差不多,会有HP和MP值，MP值会隔一段时间回复一格,HP则不会.到后期大概有4个技能，特殊技就会消耗MP.只有进入战斗环节才能操作角色进行攻击之类的,平常探索移动的时候技能是不能释放的.由于游戏只是制作了第一周目的demo，所以demo里真正用上的系统只有：成就和演奏两个.</p><p><strong>游戏测试</strong><br>本来呢，是打算第一个demo完成后发布到网上测试的，但是考虑到各种原因，还是打算做类似内测那样的吧，所以我就不把demo发布到网上了，虽然是内测，但是还是要招一批玩家进行测试，所以我创建了一个四季的内测QQ群，群号：657383128，有兴趣的玩家请加进来参与内测吧！</p>]]></content>
+      
+      <categories>
+          
+          <category> 游戏预告 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>影爱</title>
+      <link href="/2017/08/01/%E5%BD%B1%E7%88%B1/"/>
+      <url>/2017/08/01/%E5%BD%B1%E7%88%B1/</url>
+      <content type="html"><![CDATA[<table><thead><tr><th style="text-align:center">游戏信息</th></tr></thead><tbody><tr><td style="text-align:center">游戏名称</td><td style="text-align:center">影爱</td></tr><tr><td style="text-align:center">游戏类型</td><td style="text-align:center">RPG</td><td style="text-align:center">解谜</td><td>悬疑</td><td>探索</td></tr><tr><td style="text-align:center">版本信息</td><td style="text-align:center">v1.01(完结) </td></tr><tr><td style="text-align:center">制作工具</td><td style="text-align:center">RPG Maker XP</td></tr><tr><td style="text-align:center">游戏时长</td><td style="text-align:center">7小时左右</td></tr><tr><td style="text-align:center">游戏大小</td><td style="text-align:center">182M</td></tr><tr><td style="text-align:center">发布时间</td><td style="text-align:center">2017年8月1日</td></tr></tbody></table><a id="more"></a><p><strong>剧情简介</strong></p><p>落日黄昏街道，一名少女匆匆的奔跑着， 嘴里念着：快赶不上最后一趟电车了！ 在一个转弯角一个人正不慌不忙的走了出来，那名少女没察觉， 等察觉的时候已经近在眼前了，想停也停不住，面对突如其来的状况， 少女闭上了双眼，她等了一晃，可没感觉撞上，睁开眼睛的时候， 发现一位美得很娇艳就像是带刺的蔷薇的女生正扶着她， 她亲切问她：没事吧？当她眼睛和那么女生的眼睛对视后便像被催眠一样无法移开， 女生邪邪的笑着说：要不要去我的城堡歇息一下呢？ 她感觉那女生眼中好像有一个黑洞似的把她整个人都了卷进去， 她一时间失去了意识，当她醒来后竟发现自己完全在一处陌生的地方，一头雾水。</p><p><strong>游戏载图</strong></p><p><img src="https://i.loli.net/2018/09/01/5b8a5b3697909.png" alt="影爱1.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5b4b50ced.png" alt="影爱2.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5b4491ca4.png" alt="影爱3.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5b40ebf24.png" alt="影爱4.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5b3fe1ce4.png" alt="影爱5.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5b434be10.png" alt="影爱6.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5b4f1687e.png" alt="影爱7.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5b4191d21.png" alt="影爱8.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5b47eea27.png" alt="影爱9.png"></p><table><thead><tr><th style="text-align:center">游戏制作名单</th></tr></thead><tbody><tr><td style="text-align:center">游戏制作</td><td style="text-align:center">L7</td></tr><tr><td style="text-align:center">游戏剧情</td><td style="text-align:center">L7</td></tr><tr><td style="text-align:center">游戏人设</td><td style="text-align:center">kidomi</td><td style="text-align:center">废竹子</td><td>晓寞 </td></tr></tbody></table><table><thead><tr><th style="text-align:center">游戏操作</th></tr></thead><tbody><tr><td style="text-align:center">移动</td><td style="text-align:center">↑↓←→</td></tr><tr><td style="text-align:center">调查</td><td style="text-align:center">C</td></tr><tr><td style="text-align:center">取消</td><td style="text-align:center">X</td></tr><tr><td style="text-align:center">菜单</td><td style="text-align:center">ESC</td></tr></tbody></table><p><strong>游戏结局</strong></p><p>4个游戏结局,其中包括<br>2个to be continued，两个end.<br> 影响游戏结局的要素：关卡完成度                                   </p><p><strong>注意事项</strong>                                                                      </p><p>1.不要擅自改动游戏,数据、破解游戏，游戏的版权归TheWind工作室所有,游戏的人设(立绘、头像)皆为原创请不要擅自挪用，除非得到作者同意授权，否则擅自挪用将追究责任！<br>2.转载需作者同意,诸如游迅网等网站,请不要擅自改动游戏所有相关东西(包括游戏简介),否则追究责任！                                </p><p><strong>游戏下载</strong>                                                                          </p><p> <a href="http://pan.baidu.com/s/1kVEADEJ" target="_blank" rel="noopener">百度云盘</a>                    </p>]]></content>
+      
+      <categories>
+          
+          <category> 游戏作品 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>引路人</title>
+      <link href="/2016/01/17/%E5%BC%95%E8%B7%AF%E4%BA%BA/"/>
+      <url>/2016/01/17/%E5%BC%95%E8%B7%AF%E4%BA%BA/</url>
+      <content type="html"><![CDATA[<table><thead><tr><th style="text-align:center">游戏信息</th></tr></thead><tbody><tr><td style="text-align:center">游戏名称</td><td style="text-align:center">引路人</td></tr><tr><td style="text-align:center">游戏类型</td><td style="text-align:center">RPG</td><td style="text-align:center">悬疑</td><td>校园</td><td>灵异</td></tr><tr><td style="text-align:center">版本信息</td><td style="text-align:center">v1.0(未完结) </td></tr><tr><td style="text-align:center">制作工具</td><td style="text-align:center">RPG Maker XP</td></tr><tr><td style="text-align:center">游戏时长</td><td style="text-align:center">3小时左右</td></tr><tr><td style="text-align:center">游戏大小</td><td style="text-align:center">107M</td></tr><tr><td style="text-align:center">发布时间</td><td style="text-align:center">2016年1月17日</td></tr></tbody></table><a id="more"></a><p><strong>剧情简介</strong></p><p>在高二新学期的第一天，高中生姚申因为噩梦而从睡梦中被惊醒， 短暂的抱怨后，他带着慵懒，郁闷的心情开始了新学期的校园生活， 和他的小伙伴们吐槽着暑假里的种种日常，开心的度过了上午。 但在放学回家的时候，学校门口却发生了一宗打斗事件，参与了打斗事件的人当中， 有个长了一头白发的神秘少年，少年只身一人以非凡的身手击倒了一群围攻他的对手， 逆转了原本一边倒的局面。打倒对手后的白发少年在离去时对素未蒙面的姚申留下一句：“你最好小心点……”的警告后就离去了。 疑惑的姚申决定要找到白发少年问清楚他的话是何用意，几经转折终于找到的白发少年却没有给予姚申想要的答案， 反而是和他的朋友起了冲突……事后的姚申等人决定要找点事情做转移心情，商讨过后他们决定要进行试胆大会， 但是他们的计划却被白发少年听到了，白发少年提出劝退他们计划的建议，但姚申等人并未听取， 白发少年留下一丝冷漠的眼神后离去了……之后的试胆大会会发生什么，白发少年的警告和劝退又是因为什么？ 与白发少年的邂逅让姚申平静的日常开始崩坏……</p><p><strong>游戏载图</strong></p><p><img src="https://i.loli.net/2018/09/01/5b8a5a9c52955.png" alt="引路人1.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5a8a8ea3b.png" alt="引路人2.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5a8ce6b72.png" alt="引路人3.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5a88f3f09.png" alt="引路人4.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5a9a3d89b.png" alt="引路人5.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5a953918b.png" alt="引路人6.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5a909d880.png" alt="引路人7.png"><br><img src="https://i.loli.net/2018/09/01/5b8a5a8f7ebd4.png" alt="引路人8.png"></p><table><thead><tr><th style="text-align:center">游戏制作名单</th></tr></thead><tbody><tr><td style="text-align:center">游戏制作</td><td style="text-align:center">L7</td></tr><tr><td style="text-align:center">游戏剧情</td><td style="text-align:center">啊T</td></tr></tbody></table><p><strong>注意事项</strong>                                                                      </p><p>1.不要擅自改动游戏,数据、破解游戏，游戏的版权归TheWind工作室所有,游戏的人设(立绘、头像)皆为原创请不要擅自挪用，除非得到作者同意授权，否则擅自挪用将追究责任！<br>2.转载需作者同意,诸如游迅网等网站,请不要擅自改动游戏所有相关东西(包括游戏简介),否则追究责任！                                </p><p><strong>游戏下载</strong></p><p><a href="http://pan.baidu.com/s/1pKBeIWb" target="_blank" rel="noopener">百度云盘</a></p>]]></content>
+      
+      <categories>
+          
+          <category> 游戏作品 </category>
+          
+      </categories>
       
       
     </entry>
     
   
   
+    
+    <entry>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<h3 id="我是谁"><a href="#我是谁" class="headerlink" title="我是谁"></a>我是谁</h3><p>L7,兴趣使然的游戏独立开发者，</p><p>90后的我,喜欢动漫、游戏，</p><p>三分钟热度患者，拥有很多兴趣爱好，但都坚持不久，舍弃了，</p><p>游戏制作和开发是我坚持最长久的兴趣，</p><p>现今仍然在填自己的游戏坑.</p><h3 id="我想做什么"><a href="#我想做什么" class="headerlink" title="我想做什么"></a>我想做什么</h3><p>制作和开发游戏，是我目前最想做的事情，</p><p>以后可能会多了个兴趣：写博客，</p><p>至于为什么想写博客，</p><p>大概是想要一个可以总结、整理、分享的地方吧，</p><p>无数的线交织在一起，</p><p>线与线之间互相牵动，</p><p>网络是个很奇妙的东西呢.</p><h3 id="远方"><a href="#远方" class="headerlink" title="远方"></a>远方</h3><p>虽然目前仍是一名半吊子码农，</p><p>但是仍想开发制作游戏养活自己，</p><p>姑且算理想生活吧，</p><p>大概我真的挺喜欢游戏制作这个行业，</p><p>所以要好好努力往着自己想要的方向行走，</p><p>不然无趣的人生有什么意义呢.</p>]]></content>
+    </entry>
     
   
 </search>
