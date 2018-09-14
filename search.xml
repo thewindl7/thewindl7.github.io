@@ -3,6 +3,21 @@
   
     
     <entry>
+      <title>PlayMaker的安装</title>
+      <link href="/2018/09/14/playmaker%E7%9A%84%E5%AE%89%E8%A3%85/"/>
+      <url>/2018/09/14/playmaker%E7%9A%84%E5%AE%89%E8%A3%85/</url>
+      <content type="html"><![CDATA[<p>最近在研究Unity的时候，了解到PlayMaker这个插件，<br>关于PlayMaker这是个怎么样的插件，在这里我就不做多介绍了，<br>在这里简单说一下PlayMaker这个插件的安装吧，<br><img src="https://i.loli.net/2018/09/14/5b9a90cd91cb3.jpg" alt="AddForceThumb.jpg"><br>1.首先你得先装好Unity先，Unity的话可以在官网获取免费的个人版。<br><img src="https://i.loli.net/2018/09/14/5b9a92c93f1a6.png" alt="10.png"><br>2.然后再新建一个项目，3d、2d都可以.<br><img src="https://i.loli.net/2018/09/14/5b9a90c97f863.png" alt="1.png"><br>3.然后把你下载到的PlayMaker插件解压缩拉到工程的Assets目录下，<br>这里注意一下Unity、PlayMaker的版本，网上下载PlayMaker的时候，<br>一般都会有说明这个版本的PlayMaker支持、兼容什么版本的Unity，<br>如果版本不兼容，那安装就有可能失败，我第一次安装没细看就失败了，<br>下面是PlayMaker1.9版本下载链接，兼容Unity4.6.0 及以上版本，<br>下载链接：<a href="https://pan.baidu.com/s/1d1L1Z9o1HupBcNMLSOUXPA" target="_blank" rel="noopener">https://pan.baidu.com/s/1d1L1Z9o1HupBcNMLSOUXPA</a> 密码：9yvh<br><img src="https://i.loli.net/2018/09/14/5b9a90ce5ffbc.png" alt="2.png"><br>4.把插件拖到目录下后，弹出这个窗口，点击Import开始安装<br><img src="https://i.loli.net/2018/09/14/5b9a90cd4f7ab.png" alt="3.png"><br>5.之后会弹出这个窗口，直接点击第一个Install PlayMaker继续安装<br><img src="https://i.loli.net/2018/09/14/5b9a90cd9b9c6.png" alt="4.png"><br>6.弹出这个窗口的时候，选择第二个的Install PlayMaker<br><img src="https://i.loli.net/2018/09/14/5b9a90cd3a4ee.png" alt="5.png"><br>7.这里选择第一个<br><img src="https://i.loli.net/2018/09/14/5b9a90cb9f39d.png" alt="6.png"><br>8.然后安装一段时间，应该还会再弹出这个窗口，还是点击Import<br><img src="https://i.loli.net/2018/09/14/5b9a90cd3957c.png" alt="7.png"><br>9.全部安装完后，在编辑器的上方的菜单应该会多一个PlayMaker，<br>点击它，如果目录下有PlayMaker Editor,那就证明安装成功了.<br><img src="https://i.loli.net/2018/09/14/5b9a90cdb45ea.png" alt="8.png"><br>10.点击PlayMaker Editor会弹出PlayMaker的编辑页面，就可以开始使用PlayMaker了.<br><img src="https://i.loli.net/2018/09/14/5b9a92c1e8119.png" alt="9.png"><br>至此就成功安装PlayMaker了.<br>P.S:此后每次要新建项目使用PlayMaker的时候，都要重新在新建的项目再安装一次插件.</p>]]></content>
+      
+      <categories>
+          
+          <category> PlaymMker </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
       <title>关于thewindl7.tk</title>
       <link href="/2018/09/02/%E5%85%B3%E4%BA%8Ethewindl7.tk/"/>
       <url>/2018/09/02/%E5%85%B3%E4%BA%8Ethewindl7.tk/</url>
