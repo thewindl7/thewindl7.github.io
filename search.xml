@@ -3,6 +3,21 @@
   
     
     <entry>
+      <title>关于thewindl7.com</title>
+      <link href="/2018/10/16/%E5%85%B3%E4%BA%8Ethewindl7.tk/"/>
+      <url>/2018/10/16/%E5%85%B3%E4%BA%8Ethewindl7.tk/</url>
+      <content type="html"><![CDATA[<p>由于工作的原因，接触到Git，自然而然的接触到GitHub，玩了一下，<br>发现它里面有个叫GitHub Pages的东西，可以在上面搭建、托管自己的网页页面，<br>并且是免费的，这勾起了我的兴趣，然后就开始折腾了，<br><img src="https://i.loli.net/2018/09/02/5b8ac2a8c542c.jpg" alt="64542-b2610724831ceb28.jpg"><br>然后终于折腾出一个属于自己的博客了:thewindl7.tk,<br>可谓是一波三折啊，刚开始的时候是打算自己用Html5+Css3搭建的，<br>写了个框架后，发现还是用模板比较好，然后打算用Jekyll来做，<br><img src="https://i.loli.net/2018/09/02/5b8ac2ef0b644.jpg" alt="timg (1).jpg"><br>搭建了一下，发现了很多问题，不知道怎么解决，于是换了另一种看起来更加简单的模板：Hexo，<br>经过一番折腾终于可以在本地浏览并成功push到GitHub上了，<br><img src="https://i.loli.net/2018/09/02/5b8ac30d53955.jpg" alt="timg.jpg"><br>然后又因为觉得GitHub的二级域名太长，所以想自己搞个域名，<br>第一个想到的是免费的tk域名，但是听说不稳定会经常挂掉，以及百度好像不收录tk域名，<br><img src="https://i.loli.net/2018/09/02/5b8ac6bc384fb.png" alt="TK.png"><br>所以想去买一个，阿里云的域名虽然便宜，但是备案挺麻烦，<br>虽然说现在在阿里云的APP似乎让备案简单了很多，<br><img src="https://i.loli.net/2018/09/02/5b8ac6d3820ce.jpg" alt="timg (2).jpg"><br>GoDaddy不用备案，购买似乎也很方便，但是价格挺贵，<br><img src="https://i.loli.net/2018/09/02/5b8ac6e0b148b.jpg" alt="u=3264225560,3462328947&amp;fm=26&amp;gp=0.jpg"><br>本来是想在阿里云买个.top玩玩，因为才几块钱，<br>但是想到反正tk也免费，先注册试下行不行再说，<br>注册之后绑定了一下，发现跳到GitHub404页面了，<br>折腾了一番，总算是成功绑上了.<br>于是thewindl7.tk就这样搭建完成了.<br><img src="https://i.loli.net/2018/09/02/5b8ac9b41e05c.png" alt="L7-logo.png"><br>但是…<br>看见百度老久不收录Tk域名，<br>于是下定决心去万网买一个.com，<br>买了一年，为此花了55块，<br>大概是为了刺激自己好好写博客？<br>于是我的博客就变成.com<br>虽然现在没什么文章…<br>但是以后会好好写的…<br>怎么我也是花了55块啊，<br>不能浪费不能浪费…<br>挺想自己原生写博客网页，<br>虽然知道写出来大概也不怎么好看，<br>但是自己原创还是很不错的，<br>不过最近很忙，<br>就算想写也不知道要等到什么时候才有空写了…<br>等到比较有空的时候可能也没什么心机写了…<br>总之以后还是好好写博客吧.</p>]]></content>
+      
+      <categories>
+          
+          <category> 博客的诞生 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
       <title>PlayMaker的安装</title>
       <link href="/2018/09/14/playmaker%E7%9A%84%E5%AE%89%E8%A3%85/"/>
       <url>/2018/09/14/playmaker%E7%9A%84%E5%AE%89%E8%A3%85/</url>
@@ -11,21 +26,6 @@
       <categories>
           
           <category> PlayMaker </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    <entry>
-      <title>关于thewindl7.tk</title>
-      <link href="/2018/09/02/%E5%85%B3%E4%BA%8Ethewindl7.tk/"/>
-      <url>/2018/09/02/%E5%85%B3%E4%BA%8Ethewindl7.tk/</url>
-      <content type="html"><![CDATA[<p>由于工作的原因，接触到Git，自然而然的接触到GitHub，玩了一下，<br>发现它里面有个叫GitHub Pages的东西，可以在上面搭建、托管自己的网页页面，<br>并且是免费的，这勾起了我的兴趣，然后就开始折腾了，<br><img src="https://i.loli.net/2018/09/02/5b8ac2a8c542c.jpg" alt="64542-b2610724831ceb28.jpg"><br>然后终于折腾出一个属于自己的博客了:thewindl7.tk,<br>可谓是一波三折啊，刚开始的时候是打算自己用Html5+Css3搭建的，<br>写了个框架后，发现还是用模板比较好，然后打算用Jekyll来做，<br><img src="https://i.loli.net/2018/09/02/5b8ac2ef0b644.jpg" alt="timg (1).jpg"><br>搭建了一下，发现了很多问题，不知道怎么解决，于是换了另一种看起来更加简单的模板：Hexo，<br>经过一番折腾终于可以在本地浏览并成功push到GitHub上了，<br><img src="https://i.loli.net/2018/09/02/5b8ac30d53955.jpg" alt="timg.jpg"><br>然后又因为觉得GitHub的二级域名太长，所以想自己搞个域名，<br>第一个想到的是免费的tk域名，但是听说不稳定会经常挂掉，以及百度好像不收录tk域名，<br><img src="https://i.loli.net/2018/09/02/5b8ac6bc384fb.png" alt="TK.png"><br>所以想去买一个，阿里云的域名虽然便宜，但是备案挺麻烦，<br>虽然说现在在阿里云的APP似乎让备案简单了很多，<br><img src="https://i.loli.net/2018/09/02/5b8ac6d3820ce.jpg" alt="timg (2).jpg"><br>GoDaddy不用备案，购买似乎也很方便，但是价格挺贵，<br><img src="https://i.loli.net/2018/09/02/5b8ac6e0b148b.jpg" alt="u=3264225560,3462328947&amp;fm=26&amp;gp=0.jpg"><br>本来是想在阿里云买个.top玩玩，因为才几块钱，<br>但是想到反正tk也免费，先注册试下行不行再说，<br>注册之后绑定了一下，发现跳到GitHub404页面了，<br>折腾了一番，总算是成功绑上了.<br>于是thewindl7.tk就这样搭建完成了.<br><img src="https://i.loli.net/2018/09/02/5b8ac9b41e05c.png" alt="L7-logo.png"></p>]]></content>
-      
-      <categories>
-          
-          <category> 博客的诞生 </category>
           
       </categories>
       
